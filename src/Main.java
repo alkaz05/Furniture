@@ -28,6 +28,7 @@ public class Main {
         rearrange(massiv3, 5, 50, 10);
         printArray(massiv3);
 
+
     }
 
     private static void printArray(Chair[] massiv) {
